@@ -26,7 +26,7 @@ SplitMaster — это современный инструмент для тех
 
 ## 📥 Установка
 
-Скачайте последнюю версию APK из раздела [Releases](https://github.com/TeskiOke/SplitMasterSimple_2/releases) (Версия 2.0.1)
+Скачайте последнюю версию APK из раздела [Releases](https://github.com/TeskiOke/SplitMasterSimple_2/releases) (Версия 2.1.1)
 
 ## 🧭 Детальный Roadmap проекта
 
