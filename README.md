@@ -2,7 +2,7 @@
 
 > **Мессенджер с встроенной системой учёта и разделения расходов**
 
-![Version](https://img.shields.io/badge/версия-3.0.0-green)
+![Version](https://img.shields.io/badge/версия-3.0.1-green)
 ![Status](https://img.shields.io/badge/статус-финальный%20бета--тест-orange)
 ![Flutter](https://img.shields.io/badge/Flutter-3.x-blue)
 ![Supabase](https://img.shields.io/badge/Backend-Supabase%20Self--hosted-3ECF8E)
